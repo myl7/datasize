@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        go: [ '1.4', '1.17' ]
+        go: [ '1.13', '1.17' ]
     name: CI with go ${{ matrix.go }}
     steps:
       - uses: actions/checkout@v2
