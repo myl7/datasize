@@ -1,3 +1,9 @@
+# datasize
+
+## License
+
+Modification is still licensed under MIT
+
 The following is the original README:
 
 ---
